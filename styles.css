@@ -1,5 +1,20 @@
-/* use Google font:  POIRET ONE or ATOMIC AGE or RALEWAY DOTS or CODYSTAR  */
+/*** CODYSTAR ***/
 
+@font-face {
+  font-family: 'Codystar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Codystar'), local('Codystar'), url(https://fonts.googleapis.com/css?family=Codystar) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: 'Codystar';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Codystar'), local('Codystar'), url(https://fonts.googleapis.com/css?family=Codystar) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
 
 
 .main-image {
@@ -14,4 +29,28 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+#coffee {
+  color: White;
+  font-family: Codystar;
+  font-size: 75px;
+  padding-top: 100px;
+  letter-spacing: 2em;
+}
+
+#yellow-coffee-cup {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+  /* zoom: 25%; */
+  padding-top: 450px;
+  /* opacity: .75; */
+}
+
+#tagline {
+  font-family: ;
+  color: White;
+  text-align: center;
 }
