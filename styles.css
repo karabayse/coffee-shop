@@ -1,0 +1,17 @@
+/* use Google font:  POIRET ONE or ATOMIC AGE or RALEWAY DOTS or CODYSTAR  */
+
+
+
+.main-image {
+  margin-top: -2em;
+  min-height: 1300px;
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.05),
+      rgba(0, 0, 0, 0.05)
+    ),
+  url("coffee-explosion.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
