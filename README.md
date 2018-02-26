@@ -1,4 +1,4 @@
-![Coffee Shop](coffee-shop-home.png);
+![Coffee Shop](coffee-shop-home.png)
 
 # Coffee Shop
 
